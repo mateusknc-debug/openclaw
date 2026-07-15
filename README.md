@@ -8,11 +8,12 @@
 ### Arquivos
 | Arquivo | Descrição |
 |---------|-----------|
-| `PROPOSTA_ARARI_COMPLETA.xlsx` | Planilha completa (6 abas, 176 itens SINAPI, CPUs detalhados, Cronograma 9 períodos) |
+| `PROPOSTA_COMPLETA_ARARI_EDITAVEL.docx` | **PROPOSTA COMPLETA EDITÁVEL** — Resumo, Sintético, CPUs, Curva ABC, Cronograma, Encargos, BDI, Memória de Cálculo |
+| `PROPOSTA_ARARI_COMPLETA.xlsx` | Planilha Excel detalhada (6 abas) |
 | `PROPOSTA_ARARI_KNC.pdf` | PDF no timbrado KNC |
-| `ENCARGOS_SOCIAIS.docx` | Encargos Sociais Grupos A/B/C/D |
-| `COMPOSICAO_BDI.docx` | Composição do BDI |
-| `MEMORIA_DE_CALCULO.docx` | Memória de Cálculo |
+| `ENCARGOS_SOCIAIS.docx` | Encargos Sociais separados |
+| `COMPOSICAO_BDI.docx` | Composição do BDI separada |
+| `MEMORIA_DE_CALCULO.docx` | Memória de Cálculo separada |
 
 ### Responsável Técnico
 Frederick Di Brian Silva Sousa — CREA 1118401719MA
